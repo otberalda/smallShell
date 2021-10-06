@@ -1,6 +1,6 @@
 *For use in a Bash environment*
 
-In order to compile the program, use 
+Assuming gcc compiler is installed, to compile the program, use 
 the following command:
 
 $ gcc -Wall -Werror -O0 -g3 -std=c11 smallsh.c -o smallsh
